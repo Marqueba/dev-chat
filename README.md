@@ -4,7 +4,7 @@ Chat desenvolvido no Desafio #04 do BoraCodar da Rocketseat.
   <img alt="Preview" src=".github/preview.png" width="100%">
 </p>
 
-[Clique aqui para acessar](https://marqueba.github.io/buttons-cursors/)
+[Clique aqui para acessar](https://marqueba.github.io/dev-chat/)
 
 ## 🚀 Tecnologias
 
